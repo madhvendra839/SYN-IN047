@@ -1,4 +1,4 @@
-num = int(input{"Enter a Integer"})
+num = int(input("Enter the Integer"))
 # If given number is greater than 1
 if num > 1:
     # Iterate from 2 to n // 2
